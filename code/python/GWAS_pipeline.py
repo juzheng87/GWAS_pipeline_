@@ -21,8 +21,8 @@ import commands
 @contact: endoffight@gmail.com
 @site: 
 @software: PyCharm
-@file: test.py.py
-@time: 2018/9/2 0002 下午 16:03
+@file: GWAS_pipeline.py
+@time: 2018/9/2 0002 下午 16:21
 """
 
 
